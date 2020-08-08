@@ -32,7 +32,7 @@
 </br>
 
 <p align="center">
-<a href="https://twitter.com/qusaiq1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="qusaiq1" height="30" width="30" /></a> </br>
+<a href="https://twitter.com/qusaiq1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="qusaiq1" height="30" width="30" /></a> 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/qusai-onali-9a4705129/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/qusai-onali-9a4705129/" height="30" width="30" /></a>
 <a href="https://kaggle.com/qusaionali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="qusaionali" height="30" width="30" /></a>
 <a href="https://instagram.com/_naughtynuclei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_naughtynuclei" height="30" width="30" /></a>
