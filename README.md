@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Qusai</h1>
-<h3 align="center">A passionate Student | Data-science enthusiast | A Full stack Web Developer 👨‍💻 |</h3>
+<h3 align="center"An Aspiring PM 👨‍💻 |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qusaionali" alt="qusaionali" /> </p>
 
 - 🔭 I’m currently working on *some cool projects.*
 
-- 🌱 I’m currently learning *everything 🤣*
-
-- 👯 I’m looking to collaborate on *Data Science Projects.*
+- 🌱 I’m currently completing *Product Management 101 & 102- Harvard University*
 
 - 👨‍💻 All of my projects are available at [https://github.com/qusaionali](https://github.com/qusaionali)
 
 - 📝 I regulary write articles on [https://qdecodes.wordpress.com/](https://qdecodes.wordpress.com/)
 
-- 💬 Ask me about *Web Dev. | Info. Sec. | Data Science*
+- 💬 Ask me about *PM. | AI SWE | Data Science*
 
-- 📫 How to reach me? *f.q.onali@gmail.com*
+- 📫 How to reach me? *onali2206@gmail.com*
 
-- ⚡ Fun fact *I love to Read and Travel.*
+- ⚡ Fun fact *I love Horse-riding and Shooting.*
 
 
 ### Skills 
